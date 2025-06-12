@@ -1,16 +1,48 @@
-## Hi there 👋
+<!-- Profile README for Facu7519 -->
 
-<!--
-**Facu7519/Facu7519** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://static.wikia.nocookie.net/swordartonline/images/1/1e/Kirito_Nov2022.png" width="180" alt="Kirito" />
+</p>
 
-Here are some ideas to get you started:
+<h1 align="center">Hi there, I'm Facu7519! 👋</h1>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <b>Student | HTML, CSS & JavaScript Enthusiast | Dreamer</b>
+</p>
+
+---
+
+### 👤 About Me
+
+- 🌱 **Student** passionate about learning and creating
+- 💻 Exploring the world of **HTML, CSS, and JavaScript**
+- 🚀 Always experimenting with new ideas and projects
+- 🤓 **Inexpert** but always improving!
+
+---
+
+### 🌟 Favorite Project
+
+[![saoproject](https://img.shields.io/badge/Repo-saoproject-blue?logo=github)](https://github.com/Facu7519/saoproject)
+
+---
+
+### 🎮 Hobbies
+
+- 📚 Study
+- 💡 Develop
+- 🕹️ Play
+
+---
+
+### 📢 Note
+
+> This is not a professional profile—just a space to share my journey, growth, and a bit of what I love!
+
+---
+
+<p align="center">
+  <em>“The best way to get started is to quit talking and begin doing.”</em>
+  <br />
+  <b>— Kirito (my inspiration!)</b>
+</p>
